@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/homepage.css">
+    <title>Home Page</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Voucher Shop</h1>
+        <div class="user-buttons">
+            <a href="login.jsp" class="login-button">Login</a>
+            <a href="signup.jsp" class="signup-button">Sign Up</a>
+        </div>  
+    </header>
+    <nav class="menu-bar">
+        <a href="homepage.html" class="menu-item"><span class="menu-icon">🏠</span> Home</a>
+        <a href="login.jsp" class="menu-item"><span class="menu-icon">🛍</span> Shop</a>
+        <a href="login.jsp" class="menu-item"><span class="menu-icon">📞</span> Contact Us</a>
+        <a href="login.jsp" class="menu-item"><span class="menu-icon">🛒</span> Cart</a>
+    </nav>
+     <!-- Search Form -->
+        <form action="book" method="POST" class="search-form">
+            <input type="text" name="keyword" value="" class="search-input" placeholder="Search vouchers"/>
+            <input type="submit" value="Search" name="action" class="search-button" />
+        </form>
+    
+    <main>
+        <section class="slideshow-container">
+            <div class="slide fade">
+                <img src="img/CGV.jpg" alt="Slide 1">
+            </div>
+            <div class="slide fade">
+                <img src="img/Gongcha.jpg" alt="Slide 2">
+            </div>
+            <div class="slide fade">
+                <img src="img/GoldenGate.jpg" alt="Slide 3">
+            </div>
+            
+            <a class="prev">&#10094;</a>
+            <a class="next">&#10095;</a>
+        </section>
+        <h2>Hot Deals</h2>
+        <section class="product-grid">
+            <!-- Placeholder for product items -->
+            <div class="product-item">
+                <img src="img/CGV.jpg" alt="Product 1">
+                <h2>Product 1</h2>
+                <p>Price: $20</p>
+                <button class="add-to-cart">Add to Cart</button>
+            </div>
+            <div class="product-item">
+                <img src="img/Gongcha.jpg" alt="Product 2">
+                <h2>Product 2</h2>
+                <p>Price: $30</p>
+                <button class="add-to-cart">Add to Cart</button>
+            </div>
+            <div class="product-item">
+                <img src="img/GoldenGate.jpg" alt="Product 3">
+                <h2>Product 3</h2>
+                <p>Price: $50</p>
+                <button class="add-to-cart">Add to Cart</button>
+            </div>
+        </section>
+    </main>
+     <script src="javascript/homepage.js"></script>
+    <footer>
+        <p>&copy; 2023 Voucher Shop</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,105 @@
+/* Style the form container */
+.filter-form {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    text-align: center;
+}
+
+/* Style the select box */
+.select-box {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+/* Style the filter button */
+.filter-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+/* Style the filter button on hover */
+.filter-button:hover {
+    background-color: #0056b3;
+}
+/* Style the table */
+.voucher-details {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+/* Style table rows */
+.voucher-details tr {
+    border-bottom: 1px solid #ddd;
+}
+
+/* Style table cells */
+.voucher-details td {
+    padding: 8px;
+}
+
+/* Style the label cells */
+.voucher-details .label {
+    font-weight: bold;
+    color: #333;
+    text-align: right;
+}
+
+/* Style the value cells */
+.voucher-details .value {
+    text-align: left;
+}
+
+/* Style the image */
+.voucher-details img.img-small {
+    max-width: 100px;
+    max-height: 100px;
+}
+/* Style for the form container */
+.styled-form {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+/* Style for the table */
+.styled-table {
+    width: 100%;
+}
+
+/* Style for table headers */
+.styled-table th {
+    text-align: left;
+}
+
+/* Style for input fields */
+.styled-input {
+    width: 100%;
+    padding: 8px;
+    margin: 6px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+/* Style for the submit button */
+.styled-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.styled-button:hover {
+    background-color: #45a049;
+}
+

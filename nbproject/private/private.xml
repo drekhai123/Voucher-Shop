@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/HP/Documents/Zalo%20Received%20Files/PRJ301/web/login.jsp</file>
+            <file>file:/C:/Users/HP/Documents/Zalo%20Received%20Files/PRJ301/src/java/controller/LoginServlet.java</file>
+            <file>file:/C:/Users/HP/Documents/Zalo%20Received%20Files/PRJ301/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/HP/Documents/Zalo%20Received%20Files/PRJ301/src/java/users/UserDAO.java</file>
+            <file>file:/C:/Users/HP/Documents/Zalo%20Received%20Files/PRJ301/src/java/util/DBHelper.java</file>
+            <file>file:/C:/Users/HP/Documents/Zalo%20Received%20Files/PRJ301/web/voucherdetails.jsp</file>
+            <file>file:/C:/Users/HP/Documents/Zalo%20Received%20Files/PRJ301/web/javascript/homepage.js</file>
+            <file>file:/C:/Users/HP/Documents/Zalo%20Received%20Files/PRJ301/src/java/controller/CartServlet.java</file>
+            <file>file:/C:/Users/HP/Documents/Zalo%20Received%20Files/PRJ301/web/img/GoldenGate.jpg</file>
+            <file>file:/C:/Users/HP/Documents/Zalo%20Received%20Files/PRJ301/web/voucheredit.jsp</file>
+            <file>file:/C:/Users/HP/Documents/Zalo%20Received%20Files/PRJ301/src/java/orders/OrderDTO.java</file>
+            <file>file:/C:/Users/HP/Documents/Zalo%20Received%20Files/PRJ301/web/homepage.jsp</file>
+            <file>file:/C:/Users/HP/Documents/Zalo%20Received%20Files/PRJ301/web/shop.jsp</file>
+            <file>file:/C:/Users/HP/Documents/Zalo%20Received%20Files/PRJ301/web/css/homepage.css</file>
+            <file>file:/C:/Users/HP/Documents/Zalo%20Received%20Files/PRJ301/web/img/logovoucher.png</file>
+            <file>file:/C:/Users/HP/Documents/Zalo%20Received%20Files/PRJ301/src/java/cart/cartObj.java</file>
+            <file>file:/C:/Users/HP/Documents/Zalo%20Received%20Files/PRJ301/src/java/orders/OderDAO.java</file>
+            <file>file:/C:/Users/HP/Documents/Zalo%20Received%20Files/PRJ301/web/signup.jsp</file>
+            <file>file:/C:/Users/HP/Documents/Zalo%20Received%20Files/PRJ301/web/homepage.html</file>
+            <file>file:/C:/Users/HP/Documents/Zalo%20Received%20Files/PRJ301/src/java/voucher/VoucherDTO.java</file>
+            <file>file:/C:/Users/HP/Documents/Zalo%20Received%20Files/PRJ301/src/java/users/UserDTO.java</file>
+            <file>file:/C:/Users/HP/Documents/Zalo%20Received%20Files/PRJ301/src/java/voucher/VoucherDAO.java</file>
+            <file>file:/C:/Users/HP/Documents/Zalo%20Received%20Files/PRJ301/web/img/Gongcha.jpg</file>
+            <file>file:/C:/Users/HP/Documents/Zalo%20Received%20Files/PRJ301/src/java/controller/VoucherServlet.java</file>
+            <file>file:/C:/Users/HP/Documents/Zalo%20Received%20Files/PRJ301/web/css/shop.css</file>
+            <file>file:/C:/Users/HP/Documents/Zalo%20Received%20Files/PRJ301/web/viewcart.jsp</file>
+        </group>
+    </open-files>
+</project-private>
